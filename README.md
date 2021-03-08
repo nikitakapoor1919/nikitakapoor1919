@@ -7,9 +7,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nikitakapoor1919 | YouTube" width="22px" src="https://cdn.exclaimer.com/Handbook%20Images/youtube-icon_24x24.png?_ga=2.92812701.1416856171.1615203982-886522352.1615203982" />][youtube]
+[<img align="left" alt="nikitakapoor1919 | Twitter" width="22px" src="https://cdn.exclaimer.com/Handbook%20Images/twitter-icon_square_24x24.png?_ga=2.92812701.1416856171.1615203982-886522352.1615203982" />][twitter]
+[<img align="left" alt="nikitakapoor1919 | LinkedIn" width="22px" src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_32x32.png?_ga=2.25629117.1416856171.1615203982-886522352.1615203982" />][linkedin]
 
 <br />
 
