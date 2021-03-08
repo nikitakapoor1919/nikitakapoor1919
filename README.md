@@ -14,20 +14,17 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="nikitakapoor1919 GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=nikitakapoor1919&show_icons=true&hide_border=true" />
-</details>
-
-<details>
-  <summary>:zap: Languages Used </summary>
-  
-  <img align="left" alt="nikitakapoor1919 GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitakapoor1919&layout=compact&bg_color=ffffff&text_color=333333" />
-  
-
-</details>
+<h2 align="center">🐦 Github Statistics </h2>
+<p align="center">
+<img src="https://github-readme-stats-codestackr.vercel.app/api?username=nikitakapoor1919&show_icons=true&hide_border=true">
+</p>
+ 
+ 
+<h2 align="center">:zap: Languages Used </h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitakapoor1919&layout=compact&bg_color=ffffff&text_color=333333">
+</p>
+<br/>
 
 <!-- [website]:  -->
 [twitter]: https://twitter.com/nikitakapoor_19
