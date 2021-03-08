@@ -18,7 +18,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=nikitakapoor1919&show_icons=true&hide_border=true" />
+  <img align="left" alt="nikitakapoor1919 GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=nikitakapoor1919&show_icons=true&hide_border=true" />
+</details>
+
+<details>
+  <summary>:zap: Languages Used </summary>
+  
+  <img align="left" alt="nikitakapoor1919 GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitakapoor1919&layout=compact&bg_color=ffffff&text_color=333333" />
+  
 
 </details>
 
