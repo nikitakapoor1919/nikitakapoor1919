@@ -16,15 +16,21 @@
 ---
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
-<img src="https://github-readme-stats-codestackr.vercel.app/api?username=nikitakapoor1919&show_icons=true&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=nikitakapoor1919&show_icons=true&theme=radical&line_height=27">
 </p>
  
  
 <h2 align="center">:zap: Languages Used </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitakapoor1919&layout=compact&bg_color=ffffff&text_color=333333">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitakapoor1919&hide=css,java,html&theme=radical">
 </p>
 <br/>
+<p align = "center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitakapoor1919&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0">
+</p>
+<p align = "center">
+<img src="https://activity-graph.herokuapp.com/graph?username=nikitakapoor1919&theme=redical">
+</p>
 
 <!-- [website]:  -->
 [twitter]: https://twitter.com/nikitakapoor_19
